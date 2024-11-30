@@ -1,16 +1,15 @@
-## Hi there 👋
+###
 
-<!--
-**kbiraris/kbiraris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Welcome to Kunal's GitHub Profile!</h1>
+<h2 align="left">About me</h2>
+<link href= "//#" rel= "stylesheet" >
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li>I am an Engineering graduate specialized in Computer Science</li>
+  <li><a href="https://drive.google.com/file/d/1q1F2w1X35P2SMDX9t8ihlmysqVTNHzof/view?usp=drive_link" rel="nofollow">ISTQB - Certified Tester Foundation Level (CTFL)</a></li>
+  <li><a href="https://drive.google.com/file/d/1q1F2w1X35P2SMDX9t8ihlmysqVTNHzof/view?usp=drive_link" rel="nofollow">Scrum Alliance - Certified Scrum Master (CSM)</a></li>
+  <li> Recommendation letters from <a href="https://drive.google.com/file/d/15YiYyPSio0IYBUwPE12qOp5uFcRfEB40/view?usp=drive_link">SDET Manager</a>, <a href="https://drive.google.com/file/d/1hyrf9CiSjwyV47pZ2hKwJo_OewuoURQP/view?usp=drive_link">Technical Lead</a>, <a href="https://drive.google.com/file/d/1tyKkyuzA5_sLKp3EhFH8qehY9U7Hs5VD/view?usp=drive_link">QA Lead</a></li>
+  <li><a href="https://www.linkedin.com/in/kunal-biraris/" rel="nofollow">LinkedIn</a></li>
+</ul>
